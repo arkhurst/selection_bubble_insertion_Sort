@@ -1,4 +1,6 @@
 #include<iostream>  
+//10665476
+
 using namespace std;  
 int findSmallest (int[],int);  
 int main ()  
